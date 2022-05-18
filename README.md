@@ -12,3 +12,7 @@ sudo make clean install
 build dmenu using  
 sudo make  
 sudo make clean install  
+
+build slstatus using  
+sudo make  
+sudo make clean install  
